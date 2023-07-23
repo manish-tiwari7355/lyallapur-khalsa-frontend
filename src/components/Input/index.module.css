@@ -1,0 +1,54 @@
+.inputWrapper {
+  /* border-style: none none solid; */
+  border-width: 1px;
+  border-color: #bdbdbd;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+  width: 100%;
+  outline: none;
+
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.inputWrapper:focus {
+  border-bottom: 1px solid #3898ec;
+}
+
+.inputWrapperFullBorder {
+  border-width: 1px;
+  border-color: #bdbdbd;
+  background-color: #f3f5f6;
+  width: 100%;
+  outline: none;
+
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.inputWrapperFullBorder:focus {
+  border: 1px solid #3898ec;
+}
+
+.inputContainer {
+  position: relative;
+  /* padding-bottom: 1rem; */
+}
+
+.error_msg {
+  font-size: 12px;
+  font-weight: 600;
+  color: #f00 !important;
+  position: absolute;
+  margin: 0;
+  text-align: left !important;
+  top: 105%;
+}

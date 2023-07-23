@@ -1,0 +1,308 @@
+[
+  {
+    "title": "About",
+    "id": "about",
+    "subCat": [
+      {
+        "subTitle": "About Us",
+        "SubHeadings": [
+          {
+            "Link": "About LKCTC",
+            "path": "/About/AboutLKCTC"
+          },
+          {
+            "Link": "Vision & Mission",
+            "path": "/About/Vision-Mission"
+          },
+          {
+            "Link": "Our Governing Body",
+            "path": "/About/ourGoverningBody"
+          },
+          {
+            "Link": "Core Values",
+            "path": "/About/CoreValues"
+          }
+        ]
+      },
+      {
+        "subTitle": "LKCTC Edge",
+        "SubHeadings": [
+          {
+            "Link": "Industry MOUs",
+            "path": "/About/IndustryMOUs"
+          },
+          {
+            "Link": "Capacity & Carrier Building",
+            "path": "/StudentsGallery/AllEvents"
+          }
+        ]
+      },
+      {
+        "subTitle": "From The Desk Of",
+        "SubHeadings": [
+          {
+            "Link": "The President",
+            "path": "/About/FromTheDeskOf"
+          },
+          {
+            "Link": "The Hon'y Secretary",
+            "path": "/About/FromTheDeskOf"
+          },
+          {
+            "Link": "The Director LKCTC",
+            "path": "/About/FromTheDeskOf"
+          },
+          {
+            "Link": "Dy. Director, Academic Affairs",
+            "path": "/About/FromTheDeskOf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Academics",
+    "id": "Academics",
+    "subCat": [
+      {
+        "subTitle": "Academics",
+        "SubHeadings": [
+          {
+            "Link": "List of Courses",
+            "path": "/academics/listOfCourses"
+          },
+          {
+            "Link": "Academic Calendar",
+            "path": "/Academics/AcademicCalendar"
+          },
+          {
+            "Link": "E- Resources",
+            "path": "/academics/eResources"
+          },
+          {
+            "Link": "Examination",
+            "path": "Academics/examination"
+          },
+          {
+            "Link": "Research & Innovation",
+            "path": "/Academics/ResearchInvation"
+          },
+          {
+            "Link": "Faculty",
+            "path": "/Academics/Faculty"
+          },
+          {
+            "Link": "NoticeBoard",
+            "path": "/Academics/AllNoticeBoard"
+          }
+        ]
+      },
+      {
+        "subTitle": "School of Mgmt,IT & HM",
+        "SubHeadings": [
+          {
+            "Link": "Department of Management",
+            "path": "/Academics/ManagementDepartment"
+          },
+          {
+            "Link": "Department of IT",
+            "path": "/Academics/DepartmentOfIT"
+          },
+          {
+            "Link": "Department of Hotel Management",
+            "path": "/Academics/DepartmentOfHotelManagement"
+          }
+        ]
+      },
+      {
+        "subTitle": "School of Engineering and Paramedical Science ",
+        "SubHeadings": [
+          {
+            "Link": "Department of Applied Science",
+            "path": "/Academics/DepartmentOfAppliedScience"
+          },
+          {
+            "Link": "Department of Computer Science and Engineering",
+            "path": "/Academics/DepartmentOfComputerScience"
+          },
+          {
+            "Link": "Department of Civil Engineering",
+            "path": "/Academics/DepartmentOfCivilEngineering"
+          },
+          {
+            "Link": "Department of Electronics and Communication Engineering",
+            "path": "/Academics/DepartmentOfECE"
+          },
+          {
+            "Link": "Department of Mechanical Enginnering",
+            "path": "/Academics/SchoolOfMechanicalEngineering"
+          },
+          {
+            "Link": "Department of Paramedical Lab Science",
+            "path": "/Academics/DepartmentOfHealthScience"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Admissions",
+    "id": "admission",
+    "subCat": [
+      {
+        "subTitle": "Admission",
+        "SubHeadings": [
+          {
+            "Link": "Admission Form",
+            "path": "/Admission/AdmissionForm"
+          },
+          {
+            "Link": "Information Brochure",
+            "pdf": "InformationBrochure"
+          },
+          {
+            "Link": "Courses Offered",
+            "path": "/academics/listOfCourses"
+          },
+          {
+            "Link": "FAQs",
+            "path": "/Admission/FAQs"
+          },
+          {
+            "Link": "Prospectus",
+            "path": "/Admission/Prospectus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Placements",
+    "id": "placements",
+    "subCat": [
+      {
+        "subTitle": "Placements",
+        "SubHeadings": [
+          {
+            "Link": "Placement Cell",
+            "path": "/Placements/PlacementCell"
+          },
+          {
+            "Link": "Industry Partners",
+            "path": "/Placements/industry-partners"
+          },
+          {
+            "Link": "Industrial Visits",
+            "path": "/Placements/industrial-visit"
+          },
+          {
+            "Link": "List of Students Placed",
+            "path": "/Placements/student-placed-list"
+          },
+          {
+            "Link": "Upcoming Placements",
+            "path": "/Placements/Upcoming-Placements"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Students Gallery",
+    "id": "studentsgallery",
+    "subCat": [
+      {
+        "subTitle": "Students Gallery",
+        "SubHeadings": [
+          {
+            "Link": "News Gallery",
+            "path": "/StudentsGallery/NewsGallery"
+          },
+          {
+            "Link": " Student Committee (SWA )",
+            "path": "/StudentsGallery/swa"
+          },
+          {
+            "Link": " NCC Wing",
+            "path": "/StudentsGallery/nccWing"
+          },
+          {
+            "Link": "Student Grievance Portal",
+            "path": "/pageUnderConstruction"
+          },
+          {
+            "Link": "All Events",
+            "path": "/StudentsGallery/AllEvents"
+          },
+          {
+            "Link": "360 degree view",
+            "redirect": "https://www.google.com/maps/place/KCL+Institute+of+Management+and+Technology/@31.3111909,75.6005059,3a,75y,320h,100t/data=!3m8!1e1!3m6!1sAF1QipOhZe4HA1zJYQDB__xZdKvsqOqK3gSMxAHn_m43!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOhZe4HA1zJYQDB__xZdKvsqOqK3gSMxAHn_m43%3Dw224-h298-k-no-pi-10-ya335.48-ro-0-fo100!7i6000!8i3000!4m5!3m4!1s0x0:0xa212ba939239a831!8m2!3d31.3111108!4d75.6004422"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Alumni",
+    "id": "Alumni",
+    "subCat": [
+      {
+        "subTitle": "Alumni",
+        "SubHeadings": [
+          {
+            "Link": "Alumni Registration Form",
+            "redirect": "https://docs.google.com/forms/d/e/1FAIpQLSdOMFNIcSEsp6V5HovmJR0NUBW0-oNjKNwDSTTupvLRKVd0vQ/viewform?vc=0&c=0&w=1"
+          },
+          {
+            "Link": "Brand Ambassadors",
+            "path": "/Alumni/BrandAmbassadors"
+          },
+          {
+            "Link": "Alumni Testimonials",
+            "path": "/Alumni/AlumniTestimonials"
+          },
+          {
+            "Link": "Alumni Meet",
+            "path": "/Alumni/AlumniMeet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NAAC",
+    "id": "NAAC",
+    "subCat": [
+      {
+        "subTitle": "NAAC",
+        "SubHeadings": [
+          {
+            "Link": "IQAC",
+            "pdf": "Iqac"
+          },
+          {
+            "Link": "SSR",
+            "path": "/StudentsGallery/SSR"
+          },
+          {
+            "Link": "Best Practice",
+            "path": "/pageUnderConstruction"
+          },
+          {
+            "Link": "Distinctiveness",
+            "path": "/StudentsGallery/Nacctest2"
+          },
+          {
+            "Link": "Annual Report",
+            "path": "/pageUnderConstruction"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Contact",
+    "id": "Contact",
+    "path": "/Contact"
+  }
+]

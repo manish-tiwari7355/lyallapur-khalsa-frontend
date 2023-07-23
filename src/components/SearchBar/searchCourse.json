@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "title": "BBA",
+    "path": "/Academics/ManagementDepartment?course=BBA&type=Courses#bba"
+  },
+  {
+    "id": 2,
+    "title": "MBA",
+    "path": "/Academics/ManagementDepartment?course=MBA&type=Courses#mba"
+  },
+  {
+    "id": 3,
+    "title": "MCA",
+    "path": "/Academics/DepartmentOfIT?course=MCA&&type=Courses"
+  },
+  {
+    "id": 4,
+    "title": "BCA",
+    "path": "/Academics/DepartmentOfIT?course=BCA&&type=Courses"
+  },
+  {
+    "id": 5,
+    "title": "BHMCT",
+    "path": "/Academics/DepartmentOfHotelManagement?course=BHMCT&type=Courses"
+  },
+  {
+    "id": 6,
+    "title": "B.Voc Hospitality & Catring Management",
+    "path": "/Academics/DepartmentOfHotelManagement?course=BVocHospitality&type=Courses"
+  },
+  {
+    "id": 7,
+    "title": "Applied Science",
+    "path": "/Academics/DepartmentOfAppliedScience?type=Courses"
+  },
+  {
+    "id": 8,
+    "title": "B.Tech (Computer Science & Engineering)",
+    "path": "/Academics/DepartmentOfComputerScience?course=Btech&type=Courses"
+  },
+  {
+    "id": 9,
+    "title": "B.Tech (Data Science)",
+    "path": "/Academics/DepartmentOfComputerScience?course=BtechDS&type=Courses"
+  },
+  {
+    "id": 10,
+    "title": "B.Sc. (Graphics and Web Designing)",
+    "path": "/Academics/DepartmentOfComputerScience?course=BSCGraphics&type=Courses"
+  },
+  {
+    "id": 11,
+    "title": "B.Sc. (Artificial Intelligence & Machine Learning)",
+    "path": "/Academics/DepartmentOfComputerScience?course=BSCAI&type=Courses"
+  },
+  {
+    "id": 12,
+    "title": "Diploma (Computer Science & Engineering)",
+    "path": "/Academics/DepartmentOfComputerScience?course=DiplomaCSE&type=Courses"
+  },
+  {
+    "id": 13,
+    "title": "B.Tech. Civil Engineering",
+    "path": "/Academics/DepartmentOfECE?type=Courses"
+  },
+  {
+    "id": 14,
+    "title": "Diploma (Civil Engineering)",
+    "path": "/Academics/DepartmentOfCivilEngineering?course=DiplomaCivil&type=Courses"
+  },
+  {
+    "id": 15,
+    "title": "Diploma (Civil Engineering)",
+    "path": "/Academics/DepartmentOfCivilEngineering?course=DiplomaCivil&type=Courses",
+    "bottomPad": "pb-[68px]"
+  },
+  {
+    "id": 16,
+    "title": "B.Tech ECE",
+    "path": "/Academics/DepartmentOfECE?type=Courses"
+  },
+  {
+    "id": 17,
+    "title": "B.Tech Mechanical Engineering",
+    "path": "/Academics/SchoolOfMechanicalEngineering?course=BtechME&type=Courses"
+  },
+  {
+    "id": 18,
+    "title": "B.Voc (Automobile Services)",
+    "path": "/Academics/DepartmentOfComputerScience?course=BVOCSoftware&type=Courses"
+  },
+  {
+    "id": 19,
+    "title": "Diploma (Mechanical Engineering)",
+    "path": "/Academics/SchoolOfMechanicalEngineering?course=DiplomaME&type=Courses"
+  },
+  {
+    "id": 20,
+    "title": "B.Sc. (Medical Lab Sciences)",
+    "path": "/Academics/DepartmentOfHealthScience?course=BscMLS&type=Courses"
+  },
+  {
+    "id": 21,
+    "title": "B.Sc. Operational Theatre & Anesthesia",
+    "path": "/Academics/DepartmentOfHealthScience?course=BtechOperational&type=Courses"
+  },
+  {
+    "id": 22,
+    "title": "B.Sc. Radiology & Imaging Technology",
+    "path": "/Academics/DepartmentOfHealthScience?course=RadiologyTab&type=Courses"
+  },
+  {
+    "id": 23,
+    "title": "About Us",
+    "path": "/About/AboutLKCTC"
+  },
+  {
+    "id": 24,
+    "title": "Vision & Mission",
+    "path": "/About/Vision-Mission"
+  },
+  {
+    "id": 25,
+    "title": "Our Governing Body",
+    "path": "/About/ourGoverningBody"
+  },
+  {
+    "id": 26,
+    "title": "Core Values",
+    "path": "/About/CoreValues"
+  },
+  {
+    "id": 27,
+    "title": "MOU / Industry Partners",
+    "path": "/About/IndustryMOUs"
+  },
+  {
+    "id": 28,
+    "title": "Capacity & Carrier Building",
+    "path": "/StudentsGallery/AllEvents"
+  },
+  {
+    "id": 29,
+    "title": "The President",
+    "path": "/About/FromTheDeskOf"
+  },
+  {
+    "id": 30,
+    "title": "The Hon'y Secretary",
+    "path": "/About/FromTheDeskOf"
+  },
+  {
+    "id": 31,
+    "title": "The Director LKCTC",
+    "path": "/About/FromTheDeskOf"
+  },
+  {
+    "id": 32,
+    "title": "Dy. Director, Academic Affairs",
+    "path": "/About/FromTheDeskOf"
+  },
+
+  {
+    "id": 33,
+    "title": "Academics",
+    "path": "/academics/listOfCourses"
+  },
+  {
+    "id": 34,
+    "title": "List Of Coureses",
+    "path": "/academics/listOfCourses"
+  },
+  {
+    "id": 35,
+    "title": "Academic Calender",
+    "path": "/Academics/AcademicCalendar"
+  },
+  {
+    "id": 36,
+    "title": "E Resources",
+    "path": "/academics/eResources"
+  },
+  {
+    "id": 37,
+    "title": "Examination",
+    "path": "/Academics/examination#examination"
+  },
+  {
+    "id": 38,
+    "title": "Research and Innovation",
+    "path": "/Academics/ResearchInvation"
+  },
+  {
+    "id": 39,
+    "title": "Faculty",
+    "path": "/Academics/Faculty"
+  },
+  {
+    "id": 40,
+    "title": "Admission",
+    "path": "/Admission/AdmissionForm"
+  },
+  {
+    "id": 42,
+    "title": "Courses Offered",
+    "path": "/academics/listOfCourses"
+  },
+  {
+    "id": 43,
+    "title": "FAQs",
+    "path": "/Admission/FAQs"
+  },
+  {
+    "id": 44,
+    "title": "Prospectus",
+    "path": "/Admission/Prospectus"
+  },
+  {
+    "id": 45,
+    "title": "Placement Cell",
+    "path": "/Placements/PlacementCell"
+  },
+  {
+    "id": 46,
+    "title": "Industry Partners",
+    "path": "/Placements/industry-partners"
+  },
+  {
+    "id": 47,
+    "title": "Industrial Visit",
+    "path": "/Placements/industrial-visit"
+  },
+
+  {
+    "id": 48,
+    "title": "List of Students Placed",
+    "path": "/Placements/student-placed-list"
+  },
+  {
+    "id": 49,
+    "title": "Upcoming Placements",
+    "path": "/Placements/Upcoming-Placements"
+  },
+  {
+    "id": 50,
+    "title": "Students Gallery",
+    "path": "/StudentsGallery/NewsGallery"
+  },
+  {
+    "id": 51,
+    "title": "Student Committee (SWA )",
+    "path": "/StudentsGallery/swa"
+  },
+  {
+    "id": 52,
+    "title": "NCC Wing",
+    "path": "/StudentsGallery/nccWing"
+  },
+  {
+    "id": 53,
+    "title": "Student Grievance Portal",
+    "path": "/pageUnderConstruction"
+  },
+  {
+    "id": 54,
+    "title": "All Events",
+    "path": "/StudentsGallery/AllEvents"
+  },
+  {
+    "id": 55,
+    "title": "360 degree view",
+    "path": "https://www.google.com/maps/place/Lyallpur+Khalsa+College+Technical+Campus+(+A+merge+entity+of+LKC+Engg.+%26+KCLIMT)/@31.3111909,75.6005059,3a,75y,320h,100t/data=!3m8!1e1!3m6!1sAF1QipOhZe4HA1zJYQDB__xZdKvsqOqK3gSMxAHn_m43!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOhZe4HA1zJYQDB__xZdKvsqOqK3gSMxAHn_m43%3Dw224-h298-k-no-pi-10-ya335.48-ro-0-fo100!7i6000!8i3000!4m7!3m6!1s0x391a5bcb2a31a8b7:0xa212ba939239a831!8m2!3d31.3111108!4d75.6004422!10e5!16s%2Fg%2F11gzkhs4w"
+  },
+  {
+    "id": 56,
+    "title": "Alumni Registration Form",
+    "path": "https://docs.google.com/forms/d/e/1FAIpQLSdOMFNIcSEsp6V5HovmJR0NUBW0-oNjKNwDSTTupvLRKVd0vQ/viewform?vc=0&c=0&w=1"
+  },
+  {
+    "id": 57,
+    "title": "Brand Ambassadors",
+    "path": "/Alumni/BrandAmbassadors"
+  },
+  {
+    "id": 58,
+    "title": "Alumni Testimonials",
+    "path": "/Alumni/AlumniTestimonials"
+  },
+  {
+    "id": 59,
+    "title": "Alumni Meet",
+    "path": "/Alumni/AlumniMeet"
+  },
+  {
+    "id": 61,
+    "title": "SSR",
+    "path": "/pageUnderConstruction"
+  },
+  {
+    "id": 62,
+    "title": "Best Practice",
+    "path": "/pageUnderConstruction"
+  },
+  {
+    "id": 63,
+    "title": "Distinctiveness",
+    "path": "/pageUnderConstruction"
+  },
+  {
+    "id": 64,
+    "title": "Annual Report",
+    "path": "/pageUnderConstruction"
+  },
+  {
+    "id": 65,
+    "title": "Contact Us",
+    "path": "/Contact"
+  },
+  {
+    "id": 66,
+    "title": "Affiliation Order",
+    "path": "/MandatoryDisclosure/AffiliationOrder"
+  },
+  {
+    "id": 70,
+    "title": "Student Grievance Portal",
+    "path": "https://docs.google.com/forms/d/e/1FAIpQLSeRPeIFUpwMqLewg13shb9gwndajahos3XbqR_km4gi4_wS3A/viewform"
+  },
+  {
+    "id": 80,
+    "title": "Women Grievance, Sexual Harassment & Grievance Cell",
+    "path": "/MandatoryDisclosure/WomenGrievance"
+  },
+  {
+    "id": 81,
+    "title": "E Resources",
+    "path": "/academics/eResources"
+  },
+  {
+    "id": 82,
+    "title": "Our core Team",
+    "path": "/About/AboutLKCTC#our-core-team"
+  },
+  {
+    "id": 83,
+    "title": "Explore the Noticeboard",
+    "path": "#exploreNoticeboard"
+  },
+  {
+    "id": 84,
+    "title": "Our Proud Placement",
+    "path": "#our-proud-placement"
+  },
+  {
+    "id": 85,
+    "title": "Our Recruiters",
+    "path": "#our-recruiters"
+  },
+  {
+    "id": 86,
+    "title": "Enquiry Form",
+    "path": "#enquiry-form"
+  },
+  {
+    "id": 87,
+    "title": " Programs",
+    "path": "/academics/listOfCourses#programs"
+  },
+  {
+    "id": 88,
+    "title": "School OF Engineering and Paramedical Science",
+    "path": "/academics/listOfCourses#school-of-engineering-and-paramedical-science"
+  },
+  {
+    "id": 89,
+    "title": "School of Management, IT & HM",
+    "path": "/academics/listOfCourses#school-of-management-hm"
+  },
+  {
+    "id": 90,
+    "title": "Diploma Courses",
+    "path": "#diploma-courses"
+  },
+  {
+    "id": 91,
+    "title": "Teaching Staff",
+    "path": "#teaching-staff"
+  },
+  {
+    "id": 92,
+    "title": "Lab Staff",
+    "path": "#lab-staff"
+  },
+
+  {
+    "id": 93,
+    "title": "Non Teaching staff",
+    "path": "#non-Teaching-staff"
+  },
+  {
+    "id": 94,
+    "title": "Account",
+    "path": "#account"
+  },
+  {
+    "id": 95,
+    "title": "Library",
+    "path": "#library"
+  },
+  {
+    "id": 96,
+    "title": "Department of Management",
+    "path": "#department-of-management"
+  },
+  {
+    "id": 97,
+    "title": "Department of IT",
+    "path": "#department-of-it"
+  },
+  {
+    "id": 98,
+    "title": "School of Hotel Management",
+    "path": "#school-of-hotel-management"
+  },
+  {
+    "id": 99,
+    "title": "Department of Applied Science",
+    "path": "#department-of-applied-science"
+  },
+  {
+    "id": 100,
+    "title": "Department of CSE",
+    "path": "#department-of-cse"
+  },
+  {
+    "id": 101,
+    "title": "School of Civil Engineering",
+    "path": "#school-of-civil-engineering"
+  },
+  {
+    "id": 102,
+    "title": "School of ECE",
+    "path": "#school-of-ece"
+  },
+  {
+    "id": 103,
+    "title": "School of Mechanical Engineering",
+    "path": "#school-of-mechanical-engineering"
+  },
+  {
+    "id": 104,
+    "title": "Department of Paramedical Lab Science",
+    "path": "#department-of-paramedical-lab-sci"
+  },
+
+  {
+    "id": 107,
+    "title": "Admission Form",
+    "path": "/Admission/AdmissionForm"
+  },
+  {
+    "id": 108,
+    "title": "Information Brochure",
+    "path": "/static/media/InformationBrochure.da60cc65a8646e56dabc.pdf"
+  },
+  {
+    "id": 109,
+    "title": "Compute Science",
+    "path": "#computer-science"
+  },
+  {
+    "id": 110,
+    "title": "Civil Department",
+    "path": "#civil-department"
+  },
+  {
+    "id": 111,
+    "title": "Electronics Department",
+    "path": "#electronics-department"
+  },
+  {
+    "id": 112,
+    "title": "Mechanical Department",
+    "path": "#mechanical-department"
+  },
+  {
+    "id": 113,
+    "title": "IT Department",
+    "path": "#it-department"
+  },
+  {
+    "id": 114,
+    "title": "Management & HM DEPARTMENT",
+    "path": "#management&hm-department"
+  },
+
+  {
+    "id": 115,
+    "title": "Industrial Visit organized by CSE Department",
+    "path": "/Placements/industrial-visit#Industrial-visit-organized-by-CSE-department"
+  },
+  {
+    "id": 116,
+    "title": "Industrial-visit-at-GNA-Gears-Mehtiana",
+    "path": "/Placements/industrial-visit#Industrial-visit-at-GNA-Gears-Mehtiana"
+  },
+  {
+    "id": 117,
+    "title": "Industrial Visit organized by Department of Applied Science",
+    "path": "/Placements/industrial-visit#Industrial-visit-organized-by-department-of-applied-science"
+  },
+  {
+    "id": 118,
+    "title": "Industrial Visit to Guru Gobind Singh Thermal Power Plant Ropar ",
+    "path": "/Placements/industrial-visit#Industrial-visit-to-guru-gobind-singh-thermal-power-plant-ropar"
+  },
+  {
+    "id": 119,
+    "title": "Industrial Visit organized by Department of Civil Engineering",
+    "path": "/Placements/industrial-visit#Industrial-visit-organized-by-department-of-civil-engineering"
+  },
+  {
+    "id": 120,
+    "title": "Industrial Visit organized by IT Department",
+    "path": "/Placements/industrial-visit#Industrial-visit-organized-by-it-department"
+  },
+  {
+    "id": 121,
+    "title": "A Virtual Industrial Visit to EASTMAN Industries Pvt. Ltd organized by School of Management of LKCTC for its students",
+    "path": "/Placements/industrial-visit#A-virtual-industrial-visit-to-EASTMAN-industries-PvtLtd-organized-by-School-of-management-of-LKCTC-for-its-students"
+  },
+  {
+    "id": 122,
+    "title": " Industrial Visit organized by CE Department",
+    "path": "/Placements/industrial-visit#Industrial-visit-organized-by-CE-department"
+  },
+  {
+    "id": 123,
+    "title": "B.COM (Hons.)",
+    "path": "/Academics/ManagementDepartment?course=BCOM&type=Courses#bcom"
+  },
+  {
+    "id": 124,
+    "title": "Noticeboard",
+    "path": "/Academics/AllNoticeBoard"
+  }
+]

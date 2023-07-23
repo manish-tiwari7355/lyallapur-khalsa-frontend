@@ -1,1 +1,1 @@
-# lyallapur-khalsa-frontend
+# lyallpur-khalsa-college-react_app
